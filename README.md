@@ -6,6 +6,7 @@ Creational design patterns
 
     1 - Singleton
     2 - Factory Metod
+    3 - Abstract Factory Metod
 
 
 Structural design patterns
