@@ -10,8 +10,10 @@ Creational design patterns
 
 
 Structural design patterns
-   1 - 
+    
+    1 - 
 
 
 Behavioral design patterns
-   1 -
+    
+    1 - Command
