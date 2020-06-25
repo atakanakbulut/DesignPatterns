@@ -18,3 +18,4 @@ Behavioral design patterns
     
     1 - Command
     2 - Template (c+11)
+    3 - Proxy
