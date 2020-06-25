@@ -2,20 +2,24 @@
 Software Design Patterns
 
 
-Creational design patterns
+Creational Design Patterns
 
     1 - Singleton
     2 - Factory Metod
     3 - Abstract Factory Metod
 
 
-Structural design patterns
+Structural Design Patterns
     
     1 - 
 
 
-Behavioral design patterns
+Behavioral Design Patterns
     
     1 - Command
     2 - Template (c+11)
     3 - Proxy
+
+Custom Design Patterns
+    
+    1 -  
