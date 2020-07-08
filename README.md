@@ -22,4 +22,4 @@ Behavioral Design Patterns
 
 Custom Design Patterns
     
-    1 -  
+    1 -  Flag
